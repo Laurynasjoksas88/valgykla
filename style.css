@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.restikas {
+    justify-content: center;
+    text-align: center;
+}
+
+.card {
+    box-shadow: 10px 10px 5px gray;
+}
+
+
+.carousel-inner {
+    text-align:center;
+
+}
+
+.tekstas {
+    margin-top: 50px;
+}
+
+
+
+
+
